@@ -1,0 +1,21 @@
+[[contact]]
+name = "Address"
+address = "Chittaway Bay, NSW, Australia"
+icon = "fa-map-marked-alt"
+[[contact]]
+name = "Email"
+address = """<a href="mailto:chris_azza690@hotmail.com">chris_azza690@hotmail.com</a>"""
+icon = "fa-envelope"
+[[contact]]
+name = "Phone"
+address = "0416 642 697"
+icon = "fa-mobile-alt"
+# [[social]]
+# icon = "fa-mastodon"
+# url = "#!"
+[[social]]
+icon = "fa-facebook-f"
+url = "https://www.facebook.com/profile.php?id=100088676345719"
+# [[social]]
+# icon = "fa-github"
+# url = "https://github.com/mattimustang/zola-grayscale"
