@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://complete-ceramic-care.github.io/sitemap.xml
